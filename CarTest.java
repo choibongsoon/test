@@ -18,4 +18,8 @@ public class CarTest {
 	}
 
 }
+<<<<<<< HEAD
 //new comments/
+=======
+//Ä¿¹Ô¿ë ÁÖ¼®- ºÀ¼ø
+>>>>>>> 141ca21ed15216c85aea56b3e3457efbeddfb194
